@@ -32,7 +32,7 @@ from telegram.ext import (
 # ============================================================
 # HARDCODED CONFIGURATION (Edit these if needed)
 # ============================================================
-BOT_TOKEN = "8702549007:AAGoaaBDMgqmYo9Apo_GtO6NVPzl7cmBlwk"
+BOT_TOKEN = "8702549007:AAG2jdhJf0QRm2o--e67mJLjGhaGN8YH1JM"
 ADMIN_ID = 8621676055
 
 # ============================================================
